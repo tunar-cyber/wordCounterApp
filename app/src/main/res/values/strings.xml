@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">WordCounter</string>
+
+    <string name="enter_text">Enter Text</string>
+    <string name="enter_text_here">Type your text here</string>
+    <string name="count">Count</string>
+    <string name="result">Result: 0</string>
+    <string name="empty_text_warning">Please enter some text</string>
+
+    <string-array name="count_options">
+        <item>Sentences</item>
+        <item>Words</item>
+        <item>Chars</item>
+        <item>Numbers</item>
+    </string-array>
+
+</resources>
