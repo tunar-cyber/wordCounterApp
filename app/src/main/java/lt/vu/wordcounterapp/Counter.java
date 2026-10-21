@@ -2,7 +2,7 @@ package lt.vu.wordcounterapp;
 
 public class Counter {
 
-    public int CountWords(String text) {
+    public int countWords(String text) {
         if (text.trim().isEmpty()) {
             return 0;
         }

@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
                         break;
 
                     case "Words":
-                        result = counter.CountWords(text);
+                        result = counter.countWords(text);
                         break;
 
                     case "Chars":
